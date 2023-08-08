@@ -30,6 +30,7 @@
 h4 {
   color: white;
   margin-top: 10px;
+  font-family: 'Anton', sans-serif;
 }
 
 form {
@@ -45,8 +46,12 @@ button {
   background-color: bisque;
   } */
 
-  #coloredInput{
-    background-color: cyan;
-    padding: 10px 15px;
-    border-radius: 3px;
+#coloredInput {
+  background-color: cyan;
+  padding: 10px 15px;
+  border-radius: 3px;
 }
+/* .margin2 {
+  margin-top: 3px;
+} */
+
